@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mainak+Chakraborty!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mainak+Chakraborty!" />
 </h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="center">A MCA student from India 🇮🇳</h3>
@@ -7,41 +7,39 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently studying MCA at **BCREC**
- 
- 🌱 I’m currently learning **MERN Development**
-<!-- 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)** -->
-<!-- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** -->
+  🔭 I’m currently studying MCA at <strong>BCREC</strong> <br/>
+  🌱 I’m currently learning <strong>MERN Development</strong> <br/>
+  <!-- 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)** -->
+  <!-- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** -->
+</div>
 
- </div>
- 
+<br/>
+
 <div align="center"> 
   <a href="mailto:deepchakraboarty@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/mainak-chakraborty-durgapur/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  <a href="#" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
- <hr/>
- 
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <!-- <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" /> -->
-       <img src="https://skillicons.dev/icons?i=bootstrap,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,vscode,github,tailwind,git" alt="Skills" />
     <!-- <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br> -->
-      <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql" alt="Skills" /><br>
 </div>
 
 <br/>
 <hr/>
-
 
 <!-- <h2 align="center">⚡ Stats ⚡</h2> -->
 <!-- <br> -->
