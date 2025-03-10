@@ -22,7 +22,7 @@
     alt="LinkedIn Badge" 
     style="margin: 8px; border-radius: 4px;">
 </a>
-<a href="https://mainakchakraborty.netlify.app/" target="_blank">
+<a href="#" target="_blank">
   <img 
     src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" 
     alt="Portfolio Badge" 
